@@ -29,4 +29,4 @@ Below is an overview of the Looker Studio dashboard showcasing key metrics for d
 ## Contact
 
 For any questions or feedback, please contact the project maintainer: **raphaelhoudouin**.  
-GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin).
+GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin)
